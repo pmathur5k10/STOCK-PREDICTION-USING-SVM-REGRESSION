@@ -1,0 +1,11 @@
+
+-requests
+-simplejson
+-urllib
+-csv
+-numpy
+-sklearn
+-matplotlib
+
+//run the script as "python stock_future.py ........"
+// insert company name in dotted field
